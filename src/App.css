@@ -21,9 +21,12 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: #61dafb;
 }
 
+.outer {
+  background-color: #61dafb;
+}
 .App-link {
   color: #61dafb;
 }
